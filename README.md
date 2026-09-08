@@ -14,19 +14,21 @@
 
 ## 🧑‍💻 About Me
 
-I'm a student at **MIT ADT University** pursuing **Electronics & Computer Engineering**, with a strong interest in **Cybersecurity, Network Security, Ethical Hacking, and Security Automation**.
+I'm a student at **MIT ADT University** pursuing **Electronics & Computer Engineering**, with a strong interest in **Cybersecurity, Ethical Hacking, Network Security, and Security Automation**.
 
-🔐 I enjoy exploring vulnerabilities, analyzing networks, and understanding how systems can be secured against real-world threats.
+🔐 I enjoy exploring vulnerabilities, analyzing networks, and understanding how real-world systems can be secured against cyber threats.
 
-🚀 I build practical cybersecurity projects using **Python, Nmap, Kali Linux, and security automation tools**.
+🐍 I build practical cybersecurity tools and projects using **Python, Nmap, Kali Linux, and security automation techniques**.
 
-🛡️ Currently working on projects involving **vulnerability assessment, SOC investigation, automated security reporting, and cybersecurity automation**.
+🛡️ My current work focuses on **vulnerability assessment, penetration testing, SOC investigation, automated security reporting, and cybersecurity automation**.
 
-🎯 My goal is to continuously learn, build real-world security solutions, and grow as a cybersecurity professional.
+🚀 I believe the best way to learn cybersecurity is by **building, testing, breaking, and securing real systems**.
+
+🎯 My goal is to continuously improve my technical skills and build security solutions that solve real-world problems.
 
 ---
 
-## 🛡️ Cybersecurity
+## 🛡️ Cybersecurity Focus
 
 <div align="center">
 
@@ -47,14 +49,28 @@ I'm a student at **MIT ADT University** pursuing **Electronics & Computer Engine
 ### 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,react,nodejs" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,react,nodejs" />
+
 </p>
 
-### 🛡️ Security & Tools
+### 🛡️ Cybersecurity & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode" />
+
 </p>
+
+### 🔧 Security Tools
+
+<div align="center">
+
+`Nmap` • `Burp Suite` • `Metasploit` • `Wireshark` • `Kali Linux`
+
+`Nessus` • `FTK Imager` • `Volatility` • `DVWA`
+
+</div>
 
 ---
 
@@ -62,96 +78,97 @@ I'm a student at **MIT ADT University** pursuing **Electronics & Computer Engine
 
 ### 🛡️ SentinelScan AI
 
-AI-assisted automated vulnerability assessment framework for security reconnaissance, CVE analysis, risk assessment, and automated report generation.
+**AI-assisted automated vulnerability assessment and security reporting framework.**
 
-**Tech:** Python • Nmap • CVE Analysis • Security Automation
+SentinelScan AI automates security reconnaissance, vulnerability detection, CVE analysis, risk assessment, and report generation.
 
-🔗 [View Project](https://github.com/soneom14/SentinelScan-AI-v2)
+**Tech Stack**
+
+`Python` `Nmap` `CVE Analysis` `Security Automation`
+
+🔗 **[View Project →](https://github.com/soneom14/SentinelScan-AI-v2)**
 
 ---
 
 ### 🕵️ SOC Investigation Lab
 
-End-to-end SOC investigation environment focused on network analysis, service enumeration, traffic analysis, evidence collection, and security investigation.
+**Hands-on Security Operations Center investigation environment.**
 
-**Tech:** Kali Linux • Nmap • Metasploit • Wireshark
+A practical cybersecurity lab focused on reconnaissance, network analysis, service enumeration, traffic analysis, evidence collection, and security investigation.
 
-🔗 [View Project](https://github.com/soneom14/SOC-Investigation-Lab)
+**Tech Stack**
 
----
+`Kali Linux` `Nmap` `Metasploit` `Wireshark`
 
-### 📡 TrackShield
-
-IoT tracking system backend focused on device tracking, communication, and monitoring.
-
-**Tech:** C++
-
-🔗 [View Project](https://github.com/soneom14/trackshield)
+🔗 **[View Project →](https://github.com/soneom14/SOC-Investigation-Lab)**
 
 ---
 
 ### 🤖 AI-Powered Vulnerability Assessment
 
-Automated vulnerability assessment and penetration-testing report generation project designed to streamline security analysis and reporting.
+**Automated vulnerability assessment and penetration-testing report generation system.**
 
-**Tech:** Python • Nmap • Vulnerability Assessment • Automated Reporting
+The project focuses on automating security analysis and converting technical findings into structured security reports.
 
-🔗 [View Project](https://github.com/soneom14/AI-powered-automated-vulnerability-assessment-pentest-reporting)
+**Tech Stack**
+
+`Python` `Nmap` `Vulnerability Assessment` `Automated Reporting`
+
+🔗 **[View Project →](https://github.com/soneom14/AI-powered-automated-vulnerability-assessment-pentest-reporting)**
 
 ---
 
-## 📊 GitHub Analytics
+### 📡 TrackShield
+
+**IoT-based tracking and monitoring project.**
+
+A tracking system focused on device communication, monitoring, and location-related functionality.
+
+**Tech Stack**
+
+`C++`
+
+🔗 **[View Project →](https://github.com/soneom14/trackshield)**
+
+---
+
+### 🌐 Web Development Projects
+
+Exploring modern web development and building applications using React, JavaScript, HTML, and CSS.
+
+**Tech Stack**
+
+`React` `JavaScript` `HTML` `CSS` `Node.js`
+
+🔗 **[View Repository →](https://github.com/soneom14/webdevcode)**
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soneom14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+### 🔥 Contribution Streak
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneom14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=soneom14&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📚 Currently Learning
 
-<div align="center">
+```text
+Cybersecurity
+    ├── Network Security
+    ├── Penetration Testing
+    ├── Vulnerability Assessment
+    ├── SOC Operations
+    ├── Digital Forensics
+    └── Security Automation
 
-<img src="https://streak-stats.demolab.com?user=soneom14&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soneom14&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/soneom14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/om-sone-ba591a352/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 Security is not a feature. It's a mindset.
-
-**Build • Learn • Secure • Repeat**
-
-</div>
+Development
+    ├── Python
+    ├── React
+    ├── JavaScript
+    └── Backend Development
