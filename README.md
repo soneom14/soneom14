@@ -2,11 +2,7 @@
 
 <img src="./banner.png" width="100%">
 
-</div>
-
 <br>
-
-<div align="center">
 
 # 👋 Hi, I'm Om Sone
 
@@ -18,33 +14,16 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class OmSone:
+I'm a student at **MIT ADT University** pursuing **Electronics & Computer Engineering**, with a strong interest in **Cybersecurity, Network Security, Ethical Hacking, and Security Automation**.
 
-    education = "MIT ADT University"
+🔐 I enjoy exploring vulnerabilities, analyzing networks, and understanding how systems can be secured against real-world threats.
 
-    field = "Electronics & Computer Engineering"
+🚀 I build practical cybersecurity projects using **Python, Nmap, Kali Linux, and security automation tools**.
 
-    interests = [
-        "Cybersecurity",
-        "Ethical Hacking",
-        "Network Security",
-        "Vulnerability Assessment",
-        "Security Automation"
-    ]
+🛡️ Currently working on projects involving **vulnerability assessment, SOC investigation, automated security reporting, and cybersecurity automation**.
 
-    tools = [
-        "Nmap",
-        "Burp Suite",
-        "Metasploit",
-        "Wireshark",
-        "Kali Linux"
-    ]
+🎯 My goal is to continuously learn, build real-world security solutions, and grow as a cybersecurity professional.
 
-    currently_building = [
-        "SentinelScan AI",
-        "SOC Investigation Lab"
-    ]
 ---
 
 ## 🛡️ Cybersecurity
@@ -83,7 +62,7 @@ class OmSone:
 
 ### 🛡️ SentinelScan AI
 
-> AI-assisted automated vulnerability assessment framework for security reconnaissance, CVE analysis and automated report generation.
+AI-assisted automated vulnerability assessment framework for security reconnaissance, CVE analysis, risk assessment, and automated report generation.
 
 **Tech:** Python • Nmap • CVE Analysis • Security Automation
 
@@ -93,7 +72,7 @@ class OmSone:
 
 ### 🕵️ SOC Investigation Lab
 
-> End-to-end SOC investigation environment focused on network analysis, service enumeration, traffic analysis and evidence collection.
+End-to-end SOC investigation environment focused on network analysis, service enumeration, traffic analysis, evidence collection, and security investigation.
 
 **Tech:** Kali Linux • Nmap • Metasploit • Wireshark
 
@@ -103,7 +82,7 @@ class OmSone:
 
 ### 📡 TrackShield
 
-> IoT tracking system backend for device monitoring and communication.
+IoT tracking system backend focused on device tracking, communication, and monitoring.
 
 **Tech:** C++
 
@@ -111,51 +90,68 @@ class OmSone:
 
 ---
 
+### 🤖 AI-Powered Vulnerability Assessment
+
+Automated vulnerability assessment and penetration-testing report generation project designed to streamline security analysis and reporting.
+
+**Tech:** Python • Nmap • Vulnerability Assessment • Automated Reporting
+
+🔗 [View Project](https://github.com/soneom14/AI-powered-automated-vulnerability-assessment-pentest-reporting)
+
+---
+
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soneom14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneom14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soneom14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneom14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=soneom14&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=soneom14&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soneom14&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=soneom14&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/soneom14">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/om-sone-ba591a352/L">
+<a href="https://www.linkedin.com/in/om-sone-ba591a352/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
 ### 🔐 Security is not a feature. It's a mindset.
 
-</p>
+**Build • Learn • Secure • Repeat**
 
-
+</div>
